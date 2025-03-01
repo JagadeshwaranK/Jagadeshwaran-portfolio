@@ -29,7 +29,7 @@ header {
 .name h1 {
   font-size: 30px;
   font-family: 'Leckerli One', sans-serif;
-  color: black;
+  color: white;
   transition: color 0.3s;
   margin-left: 60px;
 }
@@ -43,7 +43,7 @@ header {
   list-style: none;
   margin: 20px;
   font-family: 'Patrick Hand', cursive;
-  color: black;
+  color: white;
 }
 
 .menu ul li a {
